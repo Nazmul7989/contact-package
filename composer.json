@@ -1,0 +1,19 @@
+{
+    "name": "nazmul/contact",
+    "description": "This package send mail and store information in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Md Nazmul Hasan",
+            "email": "nazmul.ns7989@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nazmul\\Contact\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
